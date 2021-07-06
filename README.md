@@ -7,7 +7,7 @@
 
 
 
-**☎ 서버 관리자 이승희 : 010 3833 9124**
+**☎ 서버 관리자 이승희 : -----------**
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rmaskdus0208@gmail.com)](mailto:rmaskdus0208@gmail.com)
 
